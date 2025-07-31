@@ -20,7 +20,7 @@ A decentralized, peer-to-peer file transfer system enabling direct secure exchan
 - Each node stores a portion of files in the distributed network
 
 
-## Getting Started
+## Setup Instructions
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/p2p-distributed-file-transfer.git
