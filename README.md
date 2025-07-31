@@ -1,6 +1,6 @@
 # P2P Distributed File Transfer System
 
-A decentralized, peer-to-peer file transfer system enabling direct secure exchange of files across a distributed network.
+A decentralized, peer-to-peer file transfer system enabling direct secure exchange of files across a distributed network with Golang.
 
 ## Features
 - Peer discovery
